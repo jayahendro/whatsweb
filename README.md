@@ -124,9 +124,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Jaya Hendro Gunawan - [@your_twitter](https://twitter.com/your_username) - jaya.hendra05@gmail.com
+Jaya Hendro Gunawan - [@overpirates](https://www.instagram.com/overpirates/) - jaya.hendra05@gmail.com
 
-Project Link: [https://github.com/xlilx/whatsweb](https://github.com/xlilx/whatsweb)
+Project Link: [https://github.com/xlilx5/whatsweb](https://github.com/xlilx5/whatsweb)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
