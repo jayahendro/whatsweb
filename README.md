@@ -71,7 +71,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](#)
+[![Whatsapp Web][product-screenshot]](#)
 
 This Whatsapp Web application for Android and iOS is fit with all of device screen.
 
@@ -141,4 +141,4 @@ Project Link: [https://github.com/xlilx/whatsweb](https://github.com/xlilx/whats
 [license-url]: https://github.com/xlilx5/whatsweb/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jaya-hendro-gunawan/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg
