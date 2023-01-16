@@ -117,7 +117,7 @@ See the [open issues](https://github.com/jayahendro/whatsweb/issues) for a list 
 
 ## License
 
-Distributed under the GNU General Public License v3.0. See [`LICENSE`][license-url] for more information.
+Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
 
 <!-- CONTACT -->
 
