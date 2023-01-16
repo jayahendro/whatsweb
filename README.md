@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/xlilx5/whatsweb">
+  <a href="https://github.com/jayahendro/whatsweb">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,14 +32,14 @@
   <p align="center">
     A Whatsapp web application for android and iOS
     <br />
-    <a href="https://github.com/xlilx5/whatsweb"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jayahendro/whatsweb"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/xlilx5/whatsweb">View Demo</a>
+    <a href="https://github.com/jayahendro/whatsweb">View Demo</a>
     ·
-    <a href="https://github.com/xlilx5/whatsweb/issues">Report Bug</a>
+    <a href="https://github.com/jayahendro/whatsweb/issues">Report Bug</a>
     ·
-    <a href="https://github.com/xlilx5/whatsweb/issues">Request Feature</a>
+    <a href="https://github.com/jayahendro/whatsweb/issues">Request Feature</a>
   </p>
 </p>
 
@@ -63,7 +63,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -81,14 +80,14 @@ You do not need to open your web browser anymore to go to [Whatsapp Web](https:/
 
 To build this project I used
 
-- [Npm JS](https://www.npmjs.com/)
+- [Node JS](https://www.npmjs.com/)
 - [React Native](https://reactnative.dev/)
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-Read our [Getting Started Guide](https://github.com/xlilx5/whatsweb/getting-started-guide). if any step seems unclear, please create a detailed [issue](https://github.com/xlilx5/whatsweb/issues).
+Read our [Getting Started Guide](https://github.com/jayahendro/whatsweb#getting-started). if any step seems unclear, please create a detailed [issue](https://github.com/jayahendro/whatsweb/issues).
 
 ### Prerequisites
 
@@ -101,7 +100,7 @@ Read our [Getting Started Guide](https://github.com/xlilx5/whatsweb/getting-star
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/xlilx5/whatsweb.git
+   git clone https://github.com/jayahendro/whatsweb.git
    ```
 2. Install NPM packages
    ```sh
@@ -112,33 +111,34 @@ Read our [Getting Started Guide](https://github.com/xlilx5/whatsweb/getting-star
 
 ## Roadmap
 
-See the [open issues](https://github.com/xlilx5/whatsweb/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jayahendro/whatsweb/issues) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0. See [`LICENSE`][license-url] for more information.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Jaya Hendro Gunawan - [@overpirates](https://www.instagram.com/overpirates/) - jaya.hendra05@gmail.com
+Jaya Hendro Gunawan - [@jayahendrogunawan](https://www.instagram.com/jayahendrogunawan/) - jaya.hendra05@gmail.com
 
-Project Link: [https://github.com/xlilx5/whatsweb](https://github.com/xlilx5/whatsweb)
+Project Link: [https://github.com/jayahendro/whatsweb][project-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/xlilx5/whatsweb.svg?style=for-the-badge
-[forks-url]: https://github.com/xlilx5/whatsweb/network/members
-[stars-shield]: https://img.shields.io/github/stars/xlilx5/whatsweb.svg?style=for-the-badge
-[stars-url]: https://github.com/xlilx5/whatsweb/stargazers
-[issues-shield]: https://img.shields.io/github/issues/xlilx5/whatsweb.svg?style=for-the-badge
-[issues-url]: https://github.com/xlilx5/whatsweb/issues
-[license-shield]: https://img.shields.io/github/license/xlilx5/whatsweb.svg?style=for-the-badge
-[license-url]: https://github.com/xlilx5/whatsweb/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/jayahendro/whatsweb.svg?style=for-the-badge
+[forks-url]: https://github.com/jayahendro/whatsweb/network/members
+[stars-shield]: https://img.shields.io/github/stars/jayahendro/whatsweb.svg?style=for-the-badge
+[stars-url]: https://github.com/jayahendro/whatsweb/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jayahendro/whatsweb.svg?style=for-the-badge
+[issues-url]: https://github.com/jayahendro/whatsweb/issues
+[license-shield]: https://img.shields.io/github/license/jayahendro/whatsweb.svg?style=for-the-badge
+[license-url]: https://github.com/jayahendro/whatsweb/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jaya-hendro-gunawan/
 [product-screenshot]: images/screenshot.jpg
+[project-url]: https://github.com/jayahendro/whatsweb
